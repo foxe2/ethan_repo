@@ -9,6 +9,11 @@ Part c
    that if his family had made enough of an outcry over this- as well as the other 3 students- more public figures would have spoken out
    against what happened.  This is a strong example of how conglomerates can manipulate certain constructs, even something as free as the
    internet, to hamstring lone developers just looking to progress technology in the name of innovation.
+   
+Part d
+2. The "grep" command returns all lines in a given file that have the matching substring that is inputted.
+   For example, the command "grep 'ab' lab1.md" would return the lines, in order, from lab1.md that contain the substring 'ab'
+3. 
 
 Part e Part 2 Practice Problem Solutions
 1. -?\d*\.?,?\d[e]?\d.?\d+\.?\d*[^p]?$
