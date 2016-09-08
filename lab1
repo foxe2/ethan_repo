@@ -31,4 +31,29 @@ Part e Part 3
 4. [SKIPPED PROBLEM 4]
 5. 1984
 
+Part f - Blockly
 
+moveForward();
+while (notDone()) {
+  if (isPathLeft()) {
+    turnLeft();
+  } else {
+    if (isPathForward()) {
+    } else {
+      if (isPathRight()) {
+        turnRight();
+      } else {
+        turnRight();
+        turnRight();
+      }
+    }
+  }
+  moveForward();
+}
+
+Part g
+
+Currently I'm discussing with my roommates about some issues that they have in their daily lives.  Currently, two of my roommates are
+working on research for a professor having to do with 3D printing, so something to aid in that process could be hugely beneficial to 
+my peers in the RPI community that rely on the service.  Peer communication will be key in developing an idea to use for my project in
+order for it to have the maximum impact extending beyond this semester course.
