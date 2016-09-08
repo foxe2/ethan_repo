@@ -13,7 +13,6 @@ Part c
 Part d
 2. The "grep" command returns all lines in a given file that have the matching substring that is inputted.
    For example, the command "grep 'ab' lab1.md" would return the lines, in order, from lab1.md that contain the substring 'ab'
-3. 
 
 Part e Part 2 Practice Problem Solutions
 1. -?\d*\.?,?\d[e]?\d.?\d+\.?\d*[^p]?$
@@ -31,3 +30,5 @@ Part e Part 3
 3. OOOO
 4. [SKIPPED PROBLEM 4]
 5. 1984
+
+
