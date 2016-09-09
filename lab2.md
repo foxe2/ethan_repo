@@ -19,8 +19,9 @@
    and we want to enable other groups in the future to be able to expand upon our work.
 7. I believe the Apache license is the best license for the common good because it is a lot less strict
    about what developers can do with projects that have this license.  It allows complete control of what
-   you do with the software.  I think the LGPL license is good for both developers and companies
-   because other developers cannot sublicense their software for other purposes.
+   you do with the software.  I think the GPL license is better for sole developers because it legally
+   prohibits deriving a developer's code as a closed-source program.  LGPL would be better for companies
+   because it allows closed projects to use software licensed with LGPL.
 9. The project we have decided on is to make a program that will take your SIS ID and Major(s) and
    determine if you have taken the adequate courses to graduate.  Since this program is specific
    to RPI's graduation requirements, the customer/user base will be limited to RPI students.  One 
