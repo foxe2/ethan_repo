@@ -1,10 +1,11 @@
 # Part 1
 Link to lab3part1 repo: https://github.com/foxe2/lab3part1
 
-![lab3 screenshot](lab3_screen.png)
+![part 1 screenshot](lab3_screen.png)
 
 # Part 2
 
+![part2 screenshot](part2_screen.png)
 
 # Part 3
 
