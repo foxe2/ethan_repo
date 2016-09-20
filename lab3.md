@@ -9,4 +9,6 @@ Link to lab3part1 repo: https://github.com/foxe2/lab3part1
 
 # Part 3
 
+Link to course project repo: https://github.com/foxe2/CAPP-Reporter
+
 Link to Table 4 repo: https://github.com/albshin/Story-Fall2016
