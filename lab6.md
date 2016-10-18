@@ -20,3 +20,18 @@ ruma | 8 | 13292 | November 29, 2015 | October 4, 2016 in master | master
 Scaffold | 1 | 269 | April 16, 2016 | April 17, 2016 in master | master
 
 The first three projects differed greatly in gitstats from the information that we found manually.  this may be because they were larger-scale projects that may not have been done completely in github, so github does not have all of the correct information.
+
+#QuickCast gource
+https://youtu.be/FHdFh_5TDmM
+
+#pyLemma gource
+https://youtu.be/0pevVcaUw-s
+
+#RPI Tours gource
+https://youtu.be/5A-0tjAoVGo
+
+#ruma gource
+https://youtu.be/hwxoqJ21NcY
+
+#Scaffold gource
+https://youtu.be/Z6coiL1sb8U
