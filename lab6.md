@@ -1,6 +1,5 @@
 #Lab 6
 
-##Project 1: PyLemma
 #Part 1
 Project | Contributors | Lines of Code | First Commit | Latest Commit | Current Branches
 --------|-----|-----|---------------|-------------------------|-------------------
